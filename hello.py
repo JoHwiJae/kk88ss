@@ -1,2 +1,2 @@
 def test_case_first():
-  assert 1
+  assert 0
